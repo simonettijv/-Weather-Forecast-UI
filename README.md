@@ -25,7 +25,11 @@ Este projeto é **front-end** e faz parte do meu processo de aprendizado em dese
 
 ## 📸 Preview
 
-> *(adicione aqui um print da tela depois — isso valoriza MUITO o projeto)*
+<p align="center">
+  <img src="<img width="720" height="423" alt="image" src="https://github.com/user-attachments/assets/b9522f4a-17f4-4d42-9dcf-22bf2d4e30c4" />
+" alt="Weather Forecast UI" width="800">
+</p>
+
 
 ---
 
