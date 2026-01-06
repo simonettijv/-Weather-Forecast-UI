@@ -26,7 +26,7 @@ Este projeto é **front-end** e faz parte do meu processo de aprendizado em dese
 ## 📸 Preview
 
 <p align="center">
-  <img src="./images/screenshot.png" alt="Weather Forecast UI" width="800">
+  <img src="projeto_previsaoTempo/images/screenshot.png" alt="Weather Forecast UI" width="800">
 </p>
 
 
